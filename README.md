@@ -9,3 +9,9 @@
 - :hammer_and_wrench: I build models with: `Python` `SQL` `AWS` `PyCharm` `Scikit` `Statistics` `TensorFlow`  
 - ⚡ I enjoy: reading and learning, hiking, calisthenics and taking care of my bonsais :) 
 - :student: AWS Certified // Data Science // Data Analysis // Machine Learning
+
+🚀Machine Learning Projects for USISA:
+[@USISAProject](https://github.com/amaliogomezlopez/USISA-Project)
+
+🛢️Deep Learning CNN Alzheimer Image Classification with TesorFlow:
+[@TensorFlowProject](https://github.com/amaliogomezlopez/ALZHEIMER-IMAGE-CLASSIFICATION-TENSORFLOW)
