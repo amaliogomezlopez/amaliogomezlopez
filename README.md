@@ -66,6 +66,6 @@ DeepSeek OCR: la REVOLUCIÓN que cambia cómo piensan las IAs" />
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaliogomezlopez&show_icons=true&theme=vapor&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliogomezlopez&layout=compact&langs_count=8&theme=vapor"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaliogomezlopez&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliogomezlopez&layout=compact&langs_count=8"/>
 </div>
