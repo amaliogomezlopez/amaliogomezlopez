@@ -54,11 +54,12 @@ Tengo amplia experiencia trabajando con plataformas en la nube como **Azure (esp
 
 ¡Aquí es donde la magia ocurre! Exploro proyectos de IA, comparto tutoriales y documento mis experimentos más locos.
 
-<a href="https://www.youtube.com/watch?v=R9En-s0xO0w" target="_blank">
-  <img src="https://img.youtube.com/vi/R9En-s0xO0w/0.jpg" alt="Video de Trading con IA" />
+<a href="https://youtu.be/uTXbG1maNSc?si=BoCTg6Ti_WS65e1v" target="_blank">
+  <img src="https://i.ytimg.com/vi/uTXbG1maNSc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBg2U_5F32eBTeCBOO2eHDbba2puw" alt="
+DeepSeek OCR: la REVOLUCIÓN que cambia cómo piensan las IAs" />
 </a>
 
-*He creado el enlace con la miniatura de tu vídeo sobre el bot de trading. Si prefieres otro vídeo, solo tienes que cambiar el código `R9En-s0xO0w` por el ID del vídeo que quieras.*
+*¡Pásate por AMALIOMETRIA en Youtube para ver más!*
 
 ---
 
