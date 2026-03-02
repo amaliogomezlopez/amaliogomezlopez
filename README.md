@@ -43,6 +43,7 @@ Tengo amplia experiencia trabajando con plataformas en la nube como **Azure (esp
 
 | Proyecto | Descripción |
 | :--- | :--- |
+| **🔍 [MY JSON VIEWER (Estilo JSON Crack)](https://github.com/amaliogomezlopez/JSON_VIEWER)** | Un explorador visual de JSON ultrarrápido contenido en un **único archivo HTML** sin dependencias. Es capaz de procesar archivos gigantes (>500MB) y millones de nodos gracias al uso de Web Workers, e incluye soporte especializado para visualizar estructuras COBOL/NATURAL. |
 | **🤖 [Trading Bot con LLMs para Bitcoin](https://github.com/amaliogomezlopez/TRADING_LLMS)** | Un experimento para determinar si los Grandes Modelos de Lenguaje (LLMs) pueden generar beneficios haciendo trading con Bitcoin. La automatización consulta a varios modelos de IA para tomar decisiones de compra/venta basadas en una docena de indicadores técnicos del mercado. |
 | **🗣️ [Pedro Sánchez LLM](https://github.com/amaliogomezlopez/PEDRO_SANCHEZ_LLM)** | Un modelo de lenguaje al que le hice *fine-tuning* para que hable y razone como Pedro Sánchez, el presidente de España. ¡Puedes hacerle preguntas y ver cómo te responde! |
 | **🧠 [Clasificación de Alzheimer con Deep Learning](https://github.com/amaliogomezlopez/ALZHEIMER-IMAGE-CLASSIFICATION-TENSORFLOW)** | Desarrollo de una Red Neuronal Convolucional (CNN) con TensorFlow para clasificar imágenes de resonancias magnéticas y detectar con alta precisión diferentes estadios de la enfermedad de Alzheimer. |
